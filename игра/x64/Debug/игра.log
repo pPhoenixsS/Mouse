@@ -1,0 +1,4 @@
+﻿  игра.cpp
+C:\Users\User\Documents\игра\игра.cpp(220,39): warning C4129: M: неизвестная escape-последовательность
+C:\Users\User\Documents\игра\игра.cpp(222,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  игра.vcxproj -> C:\Users\User\Documents\игра\x64\Debug\игра.exe

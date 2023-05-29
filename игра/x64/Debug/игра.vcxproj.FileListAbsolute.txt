@@ -1,0 +1,4 @@
+C:\Users\User\Documents\оп\игра\x64\Debug\игра.exe
+C:\Users\User\Documents\ПОЛНАЯ ИГРА\уровень 3\x64\Debug\игра.exe
+C:\Users\User\Documents\уровень 3\x64\Debug\игра.exe
+C:\Users\User\Documents\игра\x64\Debug\игра.exe
